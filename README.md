@@ -1,2 +1,3 @@
 # CSCI3251_LinSzePo
-This is the project of LinSzePo.
+<Name>: Hello, I'm Lin Sze Po!
+<StuID>: My Student number is 1155176854!
